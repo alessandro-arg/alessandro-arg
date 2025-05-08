@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro 👋🏽	👨🏽‍💻
 
-![Banner](https://www.alessandro-argenziano.com/logo/ezgif.com-loop-count.gif)
+![My looping gif](https://www.alessandro-argenziano.com/logo/ezgif.com-loop-count.gif)
 
 I'm a passionate frontend developer who loves building sleek, 
 responsive web apps with **Angular**, **JavaScript**, and **ReactJS**.
