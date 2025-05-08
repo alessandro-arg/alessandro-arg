@@ -13,8 +13,8 @@ I'm all about creativity, clean code, and continuous learning.
 
 ## Find me around the web🌍:
 <table>
-  <li>Give a look at <a href="https://www.alessandro-argenziano.com" target="_blank">my Portfolio</a> 🏠</li>
-  <li>Sharing updates on <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="_blank">LinkedIn</a> 💼</li>
+  <li>Give a look at <a href="https://www.alessandro-argenziano.com" target="blank">my Portfolio</a> 🏠</li>
+  <li>Sharing updates on <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="blank">LinkedIn</a> 💼</li>
 </table>
 
 
