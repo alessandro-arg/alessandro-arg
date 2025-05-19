@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro 👋🏽	👨🏽‍💻
+# Hi, I'm Alessandro 👋🏽 👨🏽‍💻
 
 ![My looping gif](https://github.com/alessandro-arg/assets/blob/main/github.gif)
 
@@ -11,7 +11,7 @@ the same adrenaline rush as beating a boss.
 The way code transforms ideas into reality leaves me speechless every time.
 I'm all about creativity, clean code, and continuous learning.
 
-## Find me around the web🌍:
+## Find me around the web 🌏:
 <table>
   <li>Give a look at <a href="https://www.alessandro-argenziano.com" target="blank">my Portfolio</a> 🏠</li>
   <li>Sharing updates on <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="blank">LinkedIn</a> 💼</li>
