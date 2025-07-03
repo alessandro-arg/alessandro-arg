@@ -1,5 +1,6 @@
 # Hi, I'm Alessandro 👋🏽 👨🏽‍💻
 
+
 ![My looping gif](https://github.com/alessandro-arg/assets/blob/main/github.gif)
 
 I'm a passionate frontend developer who loves building sleek, 
