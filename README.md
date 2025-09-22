@@ -6,28 +6,13 @@ I’m a passionate **Full-Stack Developer** who loves building sleek, responsive
 I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **APIs**, and enjoy creating smooth user experiences. 
 
 ## 🚀 Currently
-- 🔭 Working on: a new Portfolio Website
+- 🔭 Working on: a small SaaS project
 - 🌱 Learning: Python, Next.js and Prisma  
 - 👯 Open to collaborate on: open-source Angular/Next.js projects  
-
-## 💡 Featured Projects
-
-- [**Join**](https://github.com/alessandro-arg/join) <br/>
-  Created with **JavaScript + Firebase**. <br/>
-  A Task manager where you can create and organize tasks using drag and drop functions, assign users and categories.
-
-- [**Chess²**](https://github.com/alessandro-arg/chess) <br/>
-  Created with **Angular + Firebase**. <br/>
-  A modern web-based chess game where you can play against an AI bot or invite and play against your friends in real-time.
-
-- [**DABubble**](https://github.com/alessandro-arg/da-bubble) <br/>
-  Created with **Angular + Firebase**. <br/>
-  A real-time messaging app with private chats & channels, threads, and reactions.   
 
 ## 🛠️ Tech Stack & Skills
 
 <br>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
@@ -42,7 +27,7 @@ I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **API
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React"/>
@@ -58,4 +43,23 @@ I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **API
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-      
+## 💡 Featured Projects
+
+ [**Join**](https://github.com/alessandro-arg/join) - Created with **JavaScript + Firebase**. <br/>
+  A Task manager where you can create and organize tasks using drag and drop functions, assign users and categories.
+
+ [**Chess²**](https://github.com/alessandro-arg/chess) - Created with **Angular + Firebase**. <br/>
+  A modern web-based chess game where you can play against an AI bot or invite and play against your friends in real-time.
+
+ [**DABubble**](https://github.com/alessandro-arg/da-bubble) - Created with **Angular + Firebase**. <br/>
+  A real-time messaging app with private chats & channels, threads, and reactions.   
+
+## 🌏 Find Me Around the Web
+- 🏠 Portfolio: [www.alessandro-argenziano.com](https://www.alessandro-argenziano.com)  
+- 💼 LinkedIn: [Alessandro Argenziano](https://www.linkedin.com/in/alessandro-argenziano/)  
+- 📧 Email: contact@alessandro-argenziano.com 
+
+## 🎮 Fun Facts
+- A gamer at heart. Coding gives me the same adrenaline as boss fights, sometimes.
+- Coffee enthusiast ☕ + Night owl 🌙
+- Love experimenting with UI/UX just for fun, GSAP and Framer Motion are crazy animation libraries.
