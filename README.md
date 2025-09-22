@@ -1,23 +1,28 @@
 # Hi, I'm Alessandro 👋🏽 👨🏽‍💻
 
-
 ![My looping gif](https://github.com/alessandro-arg/assets/blob/main/github.gif)
 
-I'm a passionate full-stack developer who loves building sleek, 
-responsive web apps with **Angular**, **Node.js**, and **TypeScript**.
-I love to make perfect designed websites with the help of **Tailwind CSS**.
-I have a special appreciation for working with APIs and making things
-come alive on the screen.
-Besides coding, I'm a huge gamer - programming often gives me
-the same adrenaline rush as beating a boss.
-The way code transforms ideas into reality leaves me speechless every time.
-I'm all about creativity, clean code, and continuous learning.
+I’m a passionate **Full-Stack Developer** who loves building sleek, responsive web apps with **Angular**, **Node.js** and **TypeScript**.  
+I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **APIs**, and enjoy creating smooth user experiences. 
 
-## Find me around the web 🌏:
-<table>
-  <li>Give a look at <a href="https://www.alessandro-argenziano.com" target="blank">my Portfolio</a> 🏠</li>
-  <li>Sharing updates on <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="blank">LinkedIn</a> 💼</li>
-</table>
+## 🚀 Currently
+- 🔭 Working on: a new Portfolio Website
+- 🌱 Learning: Python, Next.js and Prisma  
+- 👯 Open to collaborate on: open-source Angular/Next.js projects  
+
+## 💡 Featured Projects
+
+- [**Join**](https://github.com/alessandro-arg/join) <br/>
+  Created with **JavaScript + Firebase**. <br/>
+  A Task manager where you can create and organize tasks using drag and drop functions, assign users and categories.
+
+- [**Chess²**](https://github.com/alessandro-arg/chess) <br/>
+  Created with **Angular + Firebase**. <br/>
+  A modern web-based chess game where you can play against an AI bot or invite and play against your friends in real-time.
+
+- [**DABubble**](https://github.com/alessandro-arg/da-bubble) <br/>
+  Created with **Angular + Firebase**. <br/>
+  A real-time messaging app with private chats & channels, threads, and reactions.   
 
 ## 🛠️ Tech Stack & Skills
 
