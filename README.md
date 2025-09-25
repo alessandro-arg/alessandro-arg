@@ -6,9 +6,9 @@ I’m a passionate **Full-Stack Developer** who loves building sleek, responsive
 I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **APIs**, and enjoy creating smooth user experiences. 
 
 ## 🚀 Currently
-- 🔭 Working on: a small SaaS project
-- 🌱 Learning: Python, Next.js and Prisma  
-- 👯 Open to collaborate on: open-source Angular/Next.js projects  
+-  Working on a new portfolio website
+-  Learning Python and Django
+-  Open to collaborate on open-source Angular/Next.js projects  
 
 ## 🛠️ Tech Stack & Skills
 
