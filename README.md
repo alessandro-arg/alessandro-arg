@@ -2,7 +2,7 @@
 
 ![My looping gif](https://github.com/alessandro-arg/assets/blob/main/github.gif)
 
-I’m a passionate **Full-Stack Developer** who loves building sleek, responsive web apps with **Angular**, **Node.js** and **TypeScript**.  
+I’m a passionate **Full-Stack Developer** who loves building sleek, responsive web apps with **Angular**, **React** and **TypeScript**.  
 I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **APIs**, and enjoy creating smooth user experiences. 
 
 ## 🚀 Currently
