@@ -6,7 +6,7 @@ I’m a passionate **Full-Stack Developer** who loves building sleek, responsive
 I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **APIs**, and enjoy creating smooth user experiences. 
 
 ## 🚀 Currently
--  Working on a new portfolio website
+-  Working on a full-stack project managment tool
 -  Learning Python and Django
 -  Open to collaborate on open-source Angular/Next.js projects  
 
@@ -59,7 +59,7 @@ I design clean, modern UIs with **Tailwind CSS**, bring ideas to life with **API
 - 💼 LinkedIn: [Alessandro Argenziano](https://www.linkedin.com/in/alessandro-argenziano/)  
 - 📧 Email: contact@alessandro-argenziano.com 
 
-## 🎮 Fun Facts
-- A gamer at heart. Coding gives me the same adrenaline as boss fights, sometimes.
-- Coffee enthusiast ☕ + Night owl 🌙
-- Love experimenting with UI/UX just for fun, GSAP and Framer Motion are crazy animation libraries.
+## Fun Facts
+- A gamer at heart.
+- I need a lot of coffe
+- I love experimenting with UI/UX, my top libraries are Framer and Gsap.
