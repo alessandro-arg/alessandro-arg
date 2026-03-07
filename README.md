@@ -24,8 +24,3 @@ I create clean and modern UIs, bring ideas to life, and enjoy creating smooth us
 - 🏠 Portfolio: <a href="https://www.alessandro-argenziano.com" target="_blank" rel="noopener noreferrer">www.alessandro-argenziano.com</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="_blank" rel="noopener noreferrer">Alessandro Argenziano</a>
 - 📧 Email: <a href="mailto:contact@alessandro-argenziano.com" target="_blank">contact@alessandro-argenziano.com</a>
-
-## Facts
-- I love mountains and snowboarding
-- I need a lot of coffe
-- I love experimenting with UI/UX
