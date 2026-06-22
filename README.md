@@ -1,7 +1,7 @@
 # Hi, I'm Alessandro 👋🏽
 
 I’m a passionate **Software Developer** who loves building sleek, responsive apps with **Angular**, **React** and **TypeScript**.  
-I create clean and modern UIs, bring ideas to life, and enjoy creating smooth user experiences. 
+I create clean and modern UIs and enjoy creating smooth user experiences. 
 
 - 🏠 Portfolio: <a href="https://www.alessandro-argenziano.com" target="_blank" rel="noopener noreferrer">www.alessandro-argenziano.com</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/alessandro-argenziano/" target="_blank" rel="noopener noreferrer">Alessandro Argenziano</a>
