@@ -41,10 +41,3 @@ I develop with Python and TypeScript and focus particularly on backend developme
 </br>
 
 <div align="center">
- 
-## Contributions in the last years
-</div>
-
-<p align="center">
-  <img alt="commits-chart" src="https://shieldcn.dev/chart/github/commits/alessandro-arg.svg?theme=green&amp;logo=false&amp;icon=github" />
-</p>
